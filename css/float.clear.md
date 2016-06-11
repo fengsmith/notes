@@ -12,3 +12,7 @@ https://css-tricks.com/when-using-important-is-the-right-choice/
 http://taligarsiel.com/Projects/howbrowserswork1.htm
 http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/
 http://www.cnblogs.com/coffeedeveloper/p/3145790.html
+
+http://www.cnblogs.com/coffeedeveloper/p/3145790.html
+
+https://www.w3.org/html/ig/zh/wiki/CSS2/visuren
