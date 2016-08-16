@@ -1,0 +1,4 @@
+System.setProperty("debug11", "fase");
+        System.out.println(System.getProperty("debug11"));
+
+        System.getProperties().list(System.out);
