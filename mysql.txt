@@ -1,0 +1,5 @@
+修改 MySQL root 用户的方法：
+使用旧密码登录，执行
+use mysql;
+UPDATE `user` SET `authentication_string`=PASSWORD('123456') WHERE `user`='root';
+命令
