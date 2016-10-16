@@ -1,0 +1,1 @@
+http://mydailyjava.blogspot.jp/2013/11/cglib-missing-manual.html
